@@ -36,5 +36,6 @@ DDNS Cloudflare BASH script is a simple bash script that allows you to easily up
 ![Bearer_key2](https://github.com/zakery1369/pics/blob/master/DDNS-CloudFlare/Bearer_key2.png?raw=true)
 
 9. Copy generated code and place it on the specified section in script.
-10. finally run the Cloudflare-DDNS.sh
+10. Write your domain in the specified section in script.
+10. finally run the CloudflareDDNS.sh
 
