@@ -6,7 +6,9 @@
 
 DDNS Cloudflare BASH script is a simple bash script that allows you to easily update your Cloudflare's DNS records dynamically.
 
-1. Login to your Clodflare account.
+## How to use this Script:
+
+1. Login to your [Clodflare account](https://dash.cloudflare.com/login).
 2. Copy your generated Zone ID like bellow and place it on the specified section in script.
 
 ![Zone_id](https://github.com/zakery1369/pics/blob/master/DDNS-CloudFlare/Zone_id.png?raw=true)
