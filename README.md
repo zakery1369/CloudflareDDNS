@@ -39,5 +39,5 @@ DDNS Cloudflare BASH script is a simple bash script that allows you to easily up
 
 9. Copy generated code and place it on the specified section in script.
 10. Write your domain in the specified section in script.
-10. finally run the CloudflareDDNS.sh
+10. Finally run the CloudflareDDNS.sh
 
